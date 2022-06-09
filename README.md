@@ -9,15 +9,26 @@
 
 ---
 
-I'm a Frontend Engineer, [Open-source contributor](https://github.com/flagship-io/flagship-js-sdk) based in Lyon, France. I am passionate about web technologies and I like to do build small projects on different IT subjects specially on cryptos.
+**About me:**
+
+-   🌍 I'm based in France, working in full remote
+-   🧠 I'm a front-end developer, worked in different companies and technical stacks
+-   🤝 I'm open to collaborating on interesting projects
+-   👨‍💻 I’m searching for contribute in ambitious and innovative projects
+
+I'm a Frontend Engineer, [Open-source contributor](https://github.com/flagship-io/flagship-js-sdk) based in Lyon, France.
+
+I am passionate about web technologies and I like to do build small projects on different IT subjects.
 
 When not working on a project or thinking about coding, I would most likely be doing some motorcycle in the Alpes ⛰ , doing some 3D printing, try new cocktail recipes, or spending time with family & friends.
 
-- 👨‍💻 I’m looking to contribute in ambitious and innovative projets
-- 💬 Ask me about TypeScript, React, Redux
-- 📫 How to reach me: emidomh@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have more than 50 connected devices in my home
+
+**Stay in touch:**
+
+-   🖥️ See my portfolio at [domenge.fr](https://domenge.fr)
+-   📫 How to reach me: [emidomh@gmail.com](mailto:emidomh@gmail.com)
+-   💬 Ask me about TypeScript, React, Redux
+-   🚀 I'm currently working at [Worldia](https://www.welcometothejungle.com/fr/companies/worldia)
 
 **Languages and Tools:**
 
@@ -31,8 +42,10 @@ When not working on a project or thinking about coding, I would most likely be d
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
+<b>My GitHub Stats</b>
+
 ![Emilien's github stat](https://github-readme-stats.vercel.app/api?username=emidomenge&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-📕 **Some random projects that I made and published online**
+<a href="https://github.com/Emidomenge"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emidomenge&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- [monboulon.fr](http://monboulon.fr/)
+<a href="https://github.com/Emidomenge" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emidomenge&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
