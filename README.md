@@ -25,10 +25,10 @@ When not working on a project or thinking about coding, I would most likely be d
 
 **Stay in touch:**
 
--   🖥️ See my portfolio at [domenge.fr](https://domenge.fr)
+-   🖥️ See my portfolio at [emilien.dev](https://emilien.dev)
 -   📫 How to reach me: [emidomh@gmail.com](mailto:emidomh@gmail.com)
 -   💬 Ask me about TypeScript, React, Redux
--   🚀 I'm currently working at [Worldia](https://www.welcometothejungle.com/fr/companies/worldia)
+-   🚀 I'm currently working at [Cisco](https://www.cisco.com)
 
 **Languages and Tools:**
 
