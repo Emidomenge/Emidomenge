@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Emilien 🥳</h2>
 
 <p align="center">
-  <a href="https://domenge.fr">Website</a> •
+  <a href="https://emilien.dev">Website</a> •
   <a href="https://fr.linkedin.com/in/emilien-domenge-heritier-841236a4">LinkedIn</a> •
   <a href="http://stackoverflow.com/users/6261968/emidomh?tab=profile">Stackoverflow</a> •
   <a href="https://twitter.com/Atoplix">Twitter</a>
